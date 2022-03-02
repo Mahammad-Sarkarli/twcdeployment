@@ -103,7 +103,8 @@
 
 .image_item_section {
   margin-top: 89px;
-  width: 303px
+  width: 303px;
+  margin: 20px auto;
 }
 
 .image_subtitle {

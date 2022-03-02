@@ -231,7 +231,7 @@ button {
 }
 
 .businesPlan-images {
-  padding: 0 20px
+  margin: 20px ;
 }
 
 [class*=button-detailed] {

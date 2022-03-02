@@ -189,6 +189,10 @@ form > textarea {
   .map_numbers > div {
     width: 100%
   }
+  .map{
+    height: 200px!important;
+  }
+ 
   .form,
   .pic {
     width: 100%

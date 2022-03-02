@@ -93,14 +93,12 @@ const ServicesBusinessPlan = () => {
                     >
                         <span className={`${styles.sub_header}`}>
                             BİZNES PLAN VƏ TİƏ
-
-
                         </span>
                         <span className={`${styles.service_details_title}`}>
                             Hazırladığımız biznes planlar özündə aşağıdakıları
                             ehtiva edir
                         </span>
-                        <div className={`d-flex flex-wrap businesPlan-images`}>
+                        <div className={`d-flex  flex-wrap businesPlan-images`}>
                             <div className={`${styles.image_item_section}`}>
                                 <img
                                     className={`${styles.image_item}`}
